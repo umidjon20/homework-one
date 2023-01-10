@@ -1,0 +1,29 @@
+[33mcommit ba671df8e498776d66b6f6cd49e9fd34c20c618e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Umid Amirkhulov <uamirqulov5@gmail.com>
+Date:   Tue Jan 10 08:17:14 2023 -0700
+
+    add section tag
+
+[33mcommit 7e437755d014a695371f5c79eaeef3557f232e87[m
+Author: Umid Amirkhulov <uamirqulov5@gmail.com>
+Date:   Tue Jan 10 08:14:40 2023 -0700
+
+    add h2 tag
+
+[33mcommit e62f0e8a73005cc9f9446ad22159813bd5a600f3[m
+Author: Umid Amirkhulov <uamirqulov5@gmail.com>
+Date:   Tue Jan 10 07:43:19 2023 -0700
+
+    add h1 tag
+
+[33mcommit 1f2a1f51d2a2274819f6110ee0bdcc563a990f9f[m
+Author: Umid Amirkhulov <uamirqulov5@gmail.com>
+Date:   Tue Jan 10 07:38:43 2023 -0700
+
+    add header tag
+
+[33mcommit 1568f3e40d2e06002090b0d3307558be87fc3744[m
+Author: Umid Amirkhulov <uamirqulov5@gmail.com>
+Date:   Tue Jan 10 07:33:23 2023 -0700
+
+    my first commit
